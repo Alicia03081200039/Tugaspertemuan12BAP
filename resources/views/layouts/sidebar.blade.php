@@ -74,7 +74,7 @@
 
       <li class="nav-item">
         <a href="/admin/replacement" class="nav-link">
-          <i class="fas fa-file-invoice"></i>
+          <i class="fas fa-arrows-alt"></i>
           <p>
             Replacement
             <span class="right badge badge-danger">New</span>

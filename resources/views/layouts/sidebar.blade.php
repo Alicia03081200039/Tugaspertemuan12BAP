@@ -72,4 +72,13 @@
         </a>
       </li>
 
-     
+      <li class="nav-item">
+        <a href="/admin/replacement" class="nav-link">
+          <i class="fas fa-file-invoice"></i>
+          <p>
+            Replacement
+            <span class="right badge badge-danger">New</span>
+          </p>
+        </a>
+    </li>   
+  </ul>

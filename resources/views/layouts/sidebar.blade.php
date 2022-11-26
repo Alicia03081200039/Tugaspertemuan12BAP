@@ -80,5 +80,23 @@
             <span class="right badge badge-danger">New</span>
           </p>
         </a>
-    </li>   
+    </li>  
+
+    <li class="nav-item">
+      <a href="http://127.0.0.1:8000/admin/room" class="nav-link">
+        <i class="nav-icon fas fa-tags"></i>
+        <p>
+          Room
+         </p>
+      </a>
+    </li>
+
+    <li class="nav-item">
+      <a href="http://127.0.0.1:8000/admin/location" class="nav-link">
+        <i class="nav-icon fas fa-map-marker"></i>
+        <p>
+          Location
+         </p>
+      </a>
+    </li>
   </ul>
